@@ -1,4 +1,4 @@
-# Привет, я Седрик (Cedric) 👋 
+# Привет, я Цедрик Илья (Cedric Illya) 👋 
 
 ### 👨‍💻 Software Developer | Entrepreneur | AI Workflow Enthusiast
 Я создаю высокопроизводительные веб-решения, объединяя **чистый код** и **бизнес-логику**. Основатель студии **Gensite**.
